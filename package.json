@@ -1,9 +1,9 @@
 {
-  "name": "fflip",
+  "name": "fflip-promise",
   "description": "Advanced Feature Flipping/Toggling Across the Server and Client",
   "author": "Fred Schott <fkschott@gmail.com>",
   "licence": "MIT",
-  "version": "3.0.0",
+  "version": "0.0.1",
   "main": "lib/fflip",
   "repository": "FredKSchott/fflip",
   "bugs": "https://github.com/FredKSchott/fflip/issues",
